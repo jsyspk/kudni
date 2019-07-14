@@ -21,7 +21,7 @@
             "lib/"
         ],
         "psr-4": {
-            "J\\FS\\": "lib/"
+            "J\\Kudni\\": "lib/"
         }
     },
     "scripts": {
